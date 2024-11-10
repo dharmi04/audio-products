@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Navbar() {
   return (
-    <nav className="bg-white shadow-md">
+    <nav className="bg-white shadow-md font-poppins">
       {/* Top Row: Logo, Search, Cart */}
       <div className="flex  items-center justify-between px-1 md:px-4 py-2">
         

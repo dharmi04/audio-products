@@ -1,6 +1,6 @@
 export default function ShowCase() {
   return (
-    <div className="flex flex-col md:flex-row bg-gray-100 p-6 md:p-8 mt-10 md:mt-20">
+    <div className="flex flex-col md:flex-row bg-gray-100 p-6 md:p-8 mt-10 md:mt-20 font-poppins">
       <div className="flex justify-center md:justify-start mb-8 md:mb-0 md:mr-8 w-full md:w-1/2">
         <div className="w-[300px] h-[200px] md:w-[500px] md:h-[250px] rounded-2xl bg-gray-900 flex items-center justify-center shadow-md">
           <img 

@@ -2,7 +2,7 @@
 
 export default function Offer() {
     return (
-        <div className=" m-3 p-4">
+        <div className=" m-3 p-4 font-poppins">
       <h2 className="text-sm font-semibold mb-2 ">Ongoing offers</h2>
       <div className="bg-gradient-to-r from-orange-500 via-orange-800 to-black rounded-lg p-6 flex items-center justify-between shadow-black">
         <h3 className="text-white text-2xl font-bold">

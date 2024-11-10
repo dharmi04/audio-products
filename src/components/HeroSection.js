@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function HeroSection() {
   return (
-    <section className="bg-gray-50">
+    <section className="bg-gray-50 font-poppins">
       {/* Banner Section */}
       <div className="relative bg-black text-white m-10 rounded-xl">
         <div className="absolute inset-0 opacity-20">

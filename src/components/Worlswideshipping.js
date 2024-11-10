@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 export default function Worldwideshipping() {
     return (
-        <section className="bg-offer-bg text-white py-12 md:py-20 px-6 md:px-16 m-10 rounded-xl">
+        <section className="bg-offer-bg text-white py-12 md:py-20 px-6 md:px-16 m-10 rounded-xl font-poppins">
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center relative">
         
         {/* Left Section */}
